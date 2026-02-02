@@ -30,7 +30,7 @@ Los mensajes viajan directamente por TCP, lo que permite:
 
 ---
 
-### Dependencias
+## 📦 Dependencias
 Solo necesarias para el sniffer:
 ```
 python -m pip install scapy
