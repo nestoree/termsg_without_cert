@@ -56,6 +56,7 @@ Ejecutar el sniffer (en otra terminal)
 python sniffer.py
 ```
 Verás los mensajes del chat en tiempo real:
+
 ![image](https://github.com/nestoree/termsg_without_cert/blob/main/images/snif_no_cert.png)
 
 ---
